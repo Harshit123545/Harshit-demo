@@ -1,4 +1,4 @@
 # Harshit-demo
 This is my first Git Repository.
 <br>
-Author - Harshit Gupta
+Author - Harshit Gupta (harshit gupta)
